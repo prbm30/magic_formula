@@ -8,6 +8,7 @@ A "Magic Formula" é uma técnica introduzida pelo investidor Joel Greenblatt qu
 
 Esta aplicação foi feita com Jupyter Notebook, utilizando as bibliotecas Pandas (dados), Selenium (web scraping), Yahoo Finance (cotações) e smtplib (email).
 </p>
+
 ## Requirements
 
 ```sh
