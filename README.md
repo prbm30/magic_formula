@@ -3,7 +3,7 @@
 ![Screenshot from 2023-03-20 08-53-54](https://user-images.githubusercontent.com/115738292/226344990-019e5ff1-e7b0-4bf5-8678-6b34e2f64010.png)
 
 <p>
-Essa aplicação realiza web scraping de um banco de dados da bolsa brasileira para analisar todas as empresas, tratando os dados com Pandas, aplicando a "Magic Formula" e criando uma tabela com o resultado. Por final essa tabela é convertida em HTML, estilizada, e enviada por email com mais algumas informações.
+Essa aplicação realiza web scraping de um banco de dados da bolsa brasileira para analisar todas as empresas, aplicando a "Magic Formula" e criando uma tabela com o resultado. Por final essa tabela é convertida em HTML, estilizada, e enviada por email com mais algumas informações.
 
 
 A "Magic Formula" é uma técnica introduzida pelo investidor Joel Greenblatt que consiste na criação de um ranking com as melhores empresas da bolsa de valores de acordo com dois critérios, sendo um de valor (EV/EBIT) e outro de rentabilidade (ROIC). O ranking final é a soma de suas pontuações em cada critério.
