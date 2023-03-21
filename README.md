@@ -8,7 +8,7 @@ Essa aplicação realiza web scraping de um banco de dados da bolsa brasileira p
 
 A "Magic Formula" é uma técnica introduzida pelo investidor Joel Greenblatt que consiste na criação de um ranking com as melhores empresas da bolsa de acordo com dois critérios, sendo um de valor (EV/EBIT) e outro de rentabilidade (ROIC). O ranking final é a soma de suas pontuações em cada critério.
 
-Esta aplicação foi feita com Jupyter Notebook, utilizando as bibliotecas Pandas (dados), Selenium (web scraping), Yahoo Finance (cotações) e smtplib (email).
+Tecnologias aplicadas nesse projeto: Python (Jupyter Notebook) utilizando as bibliotecas Pandas (dados), Selenium (web scraping), Yahoo Finance (cotações) e smtplib (email).
   
 Para enviar o email é preciso utililizar uma "senha de app" do gmail, que você precisa criar para sua conta, conforme o tutorial a seguir:
 https://support.google.com/mail/answer/185833
