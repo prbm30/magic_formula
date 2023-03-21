@@ -19,3 +19,11 @@ https://support.google.com/mail/answer/185833
 ```sh
 pip install -r requirements.txt
 ```
+## Exemplo de utilização
+
+1. Clone o repositório para sua máquina
+
+   ``
+   git clone https://github.com/prbm30/magic_formula
+   ``
+2. Execute o arquivo python ``app.ipynb``.
