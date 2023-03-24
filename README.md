@@ -26,4 +26,4 @@ pip install -r requirements.txt
    ``
    git clone https://github.com/prbm30/magic_formula
    ``
-2. Execute o arquivo python ``app.ipynb``.
+2. Execute o arquivo ``app.ipynb``.
